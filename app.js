@@ -1,2 +1,2 @@
 // Example: Change a comment or console log
-console.log("Hello,");
+console.log("Hell,");
