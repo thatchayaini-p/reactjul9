@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Print Hello World and store in a file
+echo "Hello World" > output.txt
